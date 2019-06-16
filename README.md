@@ -11,10 +11,7 @@
 Version | 1.0.1
 WebSite | http://www.jobinfo.cc:8000/
 Source |  https://github.com/GuozhuHe/webspider
-Keywords |  `Python3`, `Tornado`, `Celery`, `Requests`, `Job`
-
-## 关于本网站
-编写这个项目的初衷是本人在找工作时，一直想对所求职位的薪水待遇、学历要求等等的方面有一个全面的了解，但苦于没有客观直接的信息，所以就自己动手编写了这个网站，网站的数据采集自某个专注于互联网招聘的平台，定期更新，真实有效。本网站从多维度展示互联网相关工作岗位的情况，包括每种岗位薪资范围、学历要求、工作经验要求等等，以饼图、线型图等多种方式呈现。希望能在找工作的时候对你有所帮助。
+Keywords |  `Python3`, `Tornado`, `Celery`, `Requests`
 
 ## 项目简介
 
